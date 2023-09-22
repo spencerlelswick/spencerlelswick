@@ -43,6 +43,6 @@
 
 ### 📊 Stats
 
-![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencerlelswick&show_icons=true&theme=monokai)
+![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencerlelswick&show_icons=true&theme=buefy)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=spencerlelswick&theme=monokai&border_radius=4.5)
+[![GitHub Streak](https://streak-stats.demolab.com?user=spencerlelswick&theme=buefy&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&fire=FF6800&stroke=FF0000)]
